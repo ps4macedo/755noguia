@@ -119,10 +119,10 @@ function setupRW() {
 	debug_log("[+] Succesfully got addrof/fakeobj");
 	debug_log("");
 	debug_log("");
-	debug_log("____________________________________________________________________________________________________________________________________________A T E N Ç Ã O ! ! !  NÃO DEIXE NADA PLUGADO NAS PORTAS USBs");
+	debug_log("____________________________________________________________________A T E N Ç Ã O ! ! !  NÃO DEIXE NADA PLUGADO NAS PORTAS USBs____________________________________________________________________");
 	debug_log("");
 	debug_log("");
-	debug_log("__________________________________________________________________________________________________________________________A G U A R D E ! ! !  10 SEGUNDOS PARA O ENVIO DO HOST 75xl PARA O GUIA DO USUÁRIO E PARA NO NAVEGADOR.");
+	debug_log("___________________________________________________A G U A R D E ! ! !  10 SEGUNDOS PARA O ENVIO DO HOST 75xl PARA O GUIA DO USUÁRIO E PARA NO NAVEGADOR.__________________________________________");
 
 	/* Getting code execution */
 	/* ... */
